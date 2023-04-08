@@ -7,7 +7,7 @@ Running stable Diffusion Web UI on Google Colab notebooks.
 Run [`stable_diffusion.ipynb`][colab-notebook-stable-diffusion-webui-colab].
 [![Open In Colab][colab-badge]][colab-notebook-stable-diffusion-webui-colab]
 
-[colab-notebook-stable-diffusion-webui-colab]: https://github.com/cyruslauwork/stable-diffusion-webui-colab/blob/master/stable_diffusion_webui_colab.ipynb
+[colab-notebook-stable-diffusion-webui-colab]: https://colab.research.google.com/github/cyruslauwork/stable-diffusion-webui-colab/blob/master/stable_diffusion_webui_colab.ipynb
 [colab-badge]: https://colab.research.google.com/assets/colab-badge.svg
 
 # Suggested Prompt and Negative Prompt
