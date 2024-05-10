@@ -4,8 +4,8 @@ Running stable Diffusion Web UI on Google Colab notebooks.
 
 # Usage
 
-Run [`stable_diffusion_v1_5_webui_colab.ipynb`][stable_diffusion_v1_5_webui_colab][![Open In Colab][colab-badge]][stable_diffusion_v1_5_webui_colab]
-Run [`stable_diffusion_XL_v1_0_webui_colab.ipynb`][stable_diffusion_XL_v1_0_webui_colab][![Open In Colab][colab-badge]][stable_diffusion_XL_v1_0_webui_colab]
+- Run [`stable_diffusion_v1_5_webui_colab.ipynb`][stable_diffusion_v1_5_webui_colab][![Open In Colab][colab-badge]][stable_diffusion_v1_5_webui_colab]
+- Run [`stable_diffusion_XL_v1_0_webui_colab.ipynb`][stable_diffusion_XL_v1_0_webui_colab][![Open In Colab][colab-badge]][stable_diffusion_XL_v1_0_webui_colab]
 
 [stable_diffusion_v1_5_webui_colab]: https://colab.research.google.com/github/cyruslauwork/stable-diffusion-webui-colab/blob/master/stable_diffusion_v1_5_webui_colab.ipynb
 [stable_diffusion_XL_v1_0_webui_colab]: https://colab.research.google.com/github/cyruslauwork/stable-diffusion-webui-colab/blob/master/stable_diffusion_XL_v1_0_webui_colab.ipynb
